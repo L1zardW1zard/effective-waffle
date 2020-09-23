@@ -14,7 +14,7 @@ namespace Lab_1
 
             do
             {
-                Console.WriteLine("Количество литров воды1: (не может быть отрцательным числом)");
+                Console.WriteLine("Количество литров воды1: (не может быть отрицательным числом)");
                 amount1 = float.Parse(Console.ReadLine());
             } while (amount1 < 0);
             do
@@ -24,7 +24,7 @@ namespace Lab_1
             } while (temp1 > 101);
             do
             {
-                Console.WriteLine("Количество литров воды2: (не может быть отрцательным числом)");
+                Console.WriteLine("Количество литров воды2: (не может быть отрицательным числом)");
              amount2 = float.Parse(Console.ReadLine());
             } while (amount2 < 0);
             do
