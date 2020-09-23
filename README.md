@@ -1,1 +1,2 @@
-# effective-waffle
+# effective-waffle(рандомн меня описал)
+#Лабораторные работы c#
