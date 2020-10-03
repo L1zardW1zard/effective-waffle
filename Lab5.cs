@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,6 @@ namespace CS_Lab5
     {
         static void Main(string[] args)
         {
-            bool changed = false;
             int i = 0, j = 0;
             Console.WriteLine("Enter n");
             int n = Convert.ToInt32(Console.ReadLine()); ;
@@ -26,7 +25,7 @@ namespace CS_Lab5
                 for (j = 0; j < m; j++)
                 {
                     Random random = new Random();
-                    arr[i,j] = random.Next(1,101);
+                    arr[i, j] = random.Next(1, 101);
                 }
             }
 
@@ -36,20 +35,21 @@ namespace CS_Lab5
             {
                 for (j = 0; j < m; j++)
                 {
-                    Console.Write(arr[i,j] + "\t");
+                    Console.Write(arr[i, j] + "\t");
                 }
                 Console.WriteLine("");
             }
-            
 
-            int[,] secondArr = new int[n + 1, m];
+
+            int[,] secondArr = new int[n, m];
 
             Console.WriteLine("Array 2:");
 
             for (i = 0; i < n; i++)
             {
-                if (i==k-2){
-                        for (int x = 0; x < m; x++)   //Как добавить это в массив вообще
+                if (i == k - 2)
+                {
+                    for (int x = 0; x < m; x++)   //Как добавить это в массив вообще
                     {
                         Console.Write("0\t");
                     }
@@ -57,7 +57,22 @@ namespace CS_Lab5
                 }
                 for (j = 0; j < m; j++)
                 {
-                    Console.Write(arr[i,j] + "\t");
+                    Console.Write(arr[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("Array 3:");
+
+            for (i = 0; i < n; i++)
+            {
+                for (j = 0; j < m; j++)
+                {
+                    if (k == j + 1)
+                    {
+                        Console.Write("0\t");
+                    }
+                    Console.Write(arr[i, j] + "\t");
                 }
                 Console.WriteLine();
             }
