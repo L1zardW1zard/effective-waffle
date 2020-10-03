@@ -12,6 +12,7 @@ namespace Lab_1
         {
             float amount1, amount2, temp1, temp2;
 
+            
             do
             {
                 Console.WriteLine("Количество литров воды1: (не может быть отрицательным числом)");
