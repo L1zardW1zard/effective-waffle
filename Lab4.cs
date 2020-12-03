@@ -10,6 +10,7 @@ namespace Lab_4
 	{
 		static void Main(string[] args)
 		{
+			//Р’Р°СЂРёР°РЅС‚ 27
 			int n;
 			Console.WriteLine("Enter array size:");
 			n = int.Parse(Console.ReadLine());
@@ -21,12 +22,12 @@ namespace Lab_4
 				arr[i] = int.Parse(Console.ReadLine());
 			}
 
-			// перед
+			// ГЇГҐГ°ГҐГ¤
 			for (int i = 0; i < n; i++)
 			{
 				Console.Write(arr[0] + "\t"+  arr[i] + "\t");
 			}
-			// после
+			// ГЇГ®Г±Г«ГҐ
 			for (int i = 0; i < n; i++)
             {
 				Console.Write(arr[i] + "\t" + arr[0] + "\t");
