@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -104,26 +104,26 @@ namespace Lab_9
             else
             {
                 int i = 1;
-                foreach (Shape el in Geometry)
+                foreach (Shape figure in Geometry)
                 {
                     Circle c;
                     Square q;
                     Triangle t;
-                    if (el is Circle)
+                    if (figure is Circle)
                     {
-                        c = (Circle)el;
+                        c = (Circle)figure;
                         Console.WriteLine("Figure # {0}", i++);
                         c.Draw();
                     }
-                    else if (el is Square)
+                    else if (figure is Square)
                     {
-                        q = (Square)el;
+                        q = (Square)figure;
                         Console.WriteLine("Figure # {0}", i++);
                         q.Draw();
                     }
                     else
                     {
-                        t = (Triangle)el;
+                        t = (Triangle)figure;
                         Console.WriteLine("Figure # {0}", i++);
                         t.Draw();
                     }
