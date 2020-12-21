@@ -1,0 +1,7 @@
+C:\Users\Lizard\source\repos\Sr\Sr\obj\Debug\Sr.csprojAssemblyReference.cache
+C:\Users\Lizard\source\repos\Sr\Sr\obj\Debug\Sr.csproj.CoreCompileInputs.cache
+C:\Users\Lizard\source\repos\Sr\Sr\bin\Debug\Sr.exe.config
+C:\Users\Lizard\source\repos\Sr\Sr\bin\Debug\Sr.exe
+C:\Users\Lizard\source\repos\Sr\Sr\bin\Debug\Sr.pdb
+C:\Users\Lizard\source\repos\Sr\Sr\obj\Debug\Sr.exe
+C:\Users\Lizard\source\repos\Sr\Sr\obj\Debug\Sr.pdb
