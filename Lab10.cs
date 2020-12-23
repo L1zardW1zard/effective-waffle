@@ -10,9 +10,9 @@ namespace lab_10
             int[] arrValue = { 432, 534, 21, 543, -4 };
             printInt32Array(arrValue);
             Console.WriteLine();
-            Console.WriteLine("Ìèí: ");
+            Console.WriteLine("Мин: ");
             arrValue.findMin();
-            Console.WriteLine("Ìàêñ: ");
+            Console.WriteLine("Макс: ");
             arrValue.findMax();
         }
         private static void printInt32Array(in int[] arr)
