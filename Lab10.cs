@@ -1,6 +1,6 @@
 using System;
 
-//Вариант 3
+//Р’Р°СЂРёР°РЅС‚ 3
 namespace lab_10
 {
     internal class Program
@@ -10,9 +10,9 @@ namespace lab_10
             int[] arrValue = { 432, 534, 21, 543, -4 };
             printInt32Array(arrValue);
             Console.WriteLine();
-            Console.WriteLine("Мин: ");
+            Console.WriteLine("ГЊГЁГ­: ");
             arrValue.findMin();
-            Console.WriteLine("Макс: ");
+            Console.WriteLine("ГЊГ ГЄГ±: ");
             arrValue.findMax();
         }
         private static void printInt32Array(in int[] arr)
