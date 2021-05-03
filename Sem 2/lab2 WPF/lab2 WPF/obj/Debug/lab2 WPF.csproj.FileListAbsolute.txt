@@ -1,0 +1,15 @@
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.csprojAssemblyReference.cache
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\App.g.cs
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF_MarkupCompile.cache
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF_MarkupCompile.lref
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\bin\Debug\lab2 WPF.exe.config
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\bin\Debug\lab2 WPF.exe
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\bin\Debug\lab2 WPF.pdb
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\MainWindow.baml
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.g.resources
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2_WPF.Properties.Resources.resources
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.csproj.GenerateResource.cache
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.csproj.CoreCompileInputs.cache
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.exe
+C:\Users\Lizard\source\repos\lab2 WPF\lab2 WPF\obj\Debug\lab2 WPF.pdb
