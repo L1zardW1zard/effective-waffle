@@ -1,0 +1,5 @@
+textBox:       qwerty
+checkBox1: False
+checkBox2: True
+Height: 100
+Width: 215
